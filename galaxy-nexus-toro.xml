@@ -102,7 +102,7 @@
   <project path="system/vold" name="platform/system/vold" />
 
   <!-- Galaxy Nexus specific things -->
-  <project path="device/samsung/toro" name="android_device_samsung_toro" remote="dev" revision="master" />
+  <project path="device/samsung/toro" name="android_device_samsung_toro" remote="dev" revision="cm-10.1" />
   <project path="device/samsung/tuna" name="android-device-tuna" remote="b2g" revision="master" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
